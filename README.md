@@ -1,6 +1,6 @@
 <p align="center"><img src='logo.svg'>
 </p>
-
+ 
 
 ## Acerca de la Pokedex de Stteen
 
